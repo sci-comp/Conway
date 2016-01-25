@@ -1,9 +1,4 @@
-Purpose
----------------------
-
 Several fundamental tools in scientfic computing are demonstrated through Conway's game of life.
-
-The IPython notebooks are numbered, and demonstrate basic usage of various tools:
 
 1. tests
 
